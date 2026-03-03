@@ -6,3 +6,4 @@ A test repository to learn Git for ADC R Course.
 
 - Practice Git
 - Have fun!
+- Feat lunch. Yummy!
